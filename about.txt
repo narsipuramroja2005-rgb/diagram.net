@@ -1,0 +1,3 @@
+Name: Roja Narsipuram
+Course: B.sc Data Science
+I learned that GitHub is used to store, manage and share code online using repositories 
